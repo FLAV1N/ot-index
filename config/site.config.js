@@ -49,19 +49,19 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'HOME',
+      name: '<i class="fa-solid fa-house"></i>Home',
       link: 'https://www.otakuturu.app/',
     },
     {
-      name: 'DISCORD',
+      name: '<i class="fa-brands fa-discord"></i>Discord',
       link: 'https://discord.com/invite/aRQZPDGP72',
     },
     {
-      name: 'NYAA',
+      name: '<img src="https://nyaa.si/static/favicon.png" alt="nyaa" style="height: 13px;vertical-align: middle;margin-right: 7px;position: relative;top: -2px;">Nyaa',
       link: 'https://nyaa.si/?f=0&c=0_0&q=flav1n',
     },
     {
-      name: 'PERPUSINDO',
+      name: '<img src="https://www.perpusindo.info/favicon.ico" alt="Perpusindo" style="height: 13px;vertical-align: middle;margin-right: 7px;position: relative;top: -2px;">Perpusindo',
       link: 'https://www.perpusindo.info/user/FLAV1N',
     },
   ],
